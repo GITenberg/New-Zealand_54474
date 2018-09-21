@@ -1,5 +1,5 @@
 _repo: New-Zealand_54474
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: McCormick, A. D. (Arthur David)
@@ -11,12 +11,17 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '40073'
     url: http://www.gutenberg.org/2009/agents/40073
+covers:
+- cover_type: archival
+  image_path: 54474-h/images/cover.jpg
 creator:
   author:
     agent_name: Horsley, Reginald
     gutenberg_agent_id: '47889'
     url: http://www.gutenberg.org/2009/agents/47889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54474#New-Zealand
 gutenberg_issued: '2017-04-01'
 gutenberg_type: Text
 identifiers:
